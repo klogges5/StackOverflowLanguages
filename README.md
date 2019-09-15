@@ -10,6 +10,7 @@
 ## Installation <a name="installation"></a>
 
 You have to install WordCloud from [here](https://github.com/amueller/word_cloud). The rest of the code should run with the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+The necessary datafiles can be downloaded from [here](https://insights.stackoverflow.com/survey) and should be in folder 2019 respectively 2018.
 
 ## Project Motivation<a name="motivation"></a>
 
