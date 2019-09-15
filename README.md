@@ -1,4 +1,4 @@
-# StackOverflowLanguages
+# Raise and fall of programming languages
 ### Table of Contents
 
 1. [Installation](#installation)
